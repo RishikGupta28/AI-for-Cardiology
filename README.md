@@ -60,6 +60,8 @@ The ECG data used in this project were obtained using a non-commercial PTB proto
 ### Result
 ![image](https://github.com/RishikGupta28/AI-for-Cardiology/assets/74090072/d4a15855-20de-4745-bf55-31c4f65991c0)
 
+![image](https://github.com/RishikGupta28/AI-for-Cardiology/assets/74090072/034177e6-0b30-4343-b491-5d31c8d165fa)
+
 ### Usage
 
 To run the project locally:
